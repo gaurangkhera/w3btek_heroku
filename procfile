@@ -1,0 +1,1 @@
+web: gunicorn webtek.wsgi --log-file -
